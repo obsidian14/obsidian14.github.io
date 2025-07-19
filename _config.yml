@@ -28,7 +28,7 @@ twitter_username: obsidian1124
 github_username:  obsidian14
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
