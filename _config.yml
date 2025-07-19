@@ -28,7 +28,7 @@ twitter_username: obsidian1124
 github_username:  obsidian14
 
 # Build settings
-theme: jekyll-theme-gitbook
+remote_theme:     sighingnow/jekyll-gitbook
 plugins:
   - jekyll-feed
 
