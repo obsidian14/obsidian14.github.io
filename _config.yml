@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: obsidian14 home page
+title: Obsidian's House
 email: nonewu24@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A home page has been shown the level of a programer.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Very good my site is!
+baseurl: /blog # the subpath of your site, e.g. /blog
+url: http://obsidian14.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: obsidian1124
 github_username:  obsidian14
 
