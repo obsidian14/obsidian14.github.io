@@ -22,7 +22,7 @@ title: Obsidian's House
 email: nonewu24@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Very good my site is!
-baseurl: /blog # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: http://obsidian14.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: obsidian1124
 github_username:  obsidian14
